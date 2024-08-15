@@ -1,0 +1,27 @@
+body{
+     background-color: rgb(255, 127, 195);
+}
+h1{
+
+     color: chartreuse;}
+.post{
+     font-size:large;
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin:auto;
+    
+    padding-bottom: 40px;
+     background-color: aqua;
+}
+.user{
+     margin-left: 30px;
+     font-style: italic;
+}
+.cont{
+     margin-left: 30px;
+     font-style: italic;
+}
+div{
+     width: 400px;
+     height:150px ;
+     border-radius: 10%;
+}
